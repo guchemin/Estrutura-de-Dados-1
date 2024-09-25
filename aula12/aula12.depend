@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1700416193 source:c:\users\gusta\onedrive\햞ea de trabalho\aula12\utils.c
+	"utils.h"
+
+1700416193 c:\users\gusta\onedrive\햞ea de trabalho\aula12\utils.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<math.h>
+	<limits.h>
+
+1700420162 source:c:\users\gusta\onedrive\햞ea de trabalho\aula12\merge-debug.c
+	"utils.h"
+
+1700421158 source:c:\users\gusta\onedrive\햞ea de trabalho\aula12\merge-inv.c
+	"utils.h"
+

@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1698588802 source:c:\users\gusta\onedrive\햞ea de trabalho\aula10\arquivos\utils.c
+	"utils.h"
+
+1698582165 c:\users\gusta\onedrive\햞ea de trabalho\aula10\arquivos\utils.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1698584213 source:c:\users\gusta\onedrive\햞ea de trabalho\aula10\arquivos\ruido.c
+	"ruido.h"
+	"utils.h"
+
+1698582166 c:\users\gusta\onedrive\햞ea de trabalho\aula10\arquivos\ruido.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1698585875 source:c:\users\gusta\onedrive\햞ea de trabalho\aula10\arquivos\selection-rec.c
+	"utils.h"
+
+1698587353 source:c:\users\gusta\onedrive\햞ea de trabalho\aula10\arquivos\median.c
+	"utils.h"
+
+1698588740 source:c:\users\gusta\onedrive\햞ea de trabalho\aula10\arquivos\stable.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1698589291 source:c:\users\gusta\onedrive\햞ea de trabalho\aula10\arquivos\insertion.c
+	"utils.h"
+

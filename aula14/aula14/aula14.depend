@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1701625470 source:c:\users\gusta\onedrive\햞ea de trabalho\arquivos\utils.c
+	"utils.h"
+
+1701625470 c:\users\gusta\onedrive\햞ea de trabalho\arquivos\utils.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+
+1701626171 source:c:\users\gusta\onedrive\햞ea de trabalho\arquivos\word_search.c
+	<string.h>
+	<math.h>
+	"utils.h"
+
+1701630492 source:c:\users\gusta\onedrive\햞ea de trabalho\arquivos\missing.c
+	"utils.h"
+

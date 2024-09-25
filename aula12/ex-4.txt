@@ -1,0 +1,1 @@
+ A função intercala alternativa funciona, diferente da que vimos em sala, ela não utiliza um vetor auxiliar O, porém a complexidade dela é O(n^2), ou seja, ela é pior em termos de tempo do que a que vimos em sala, apesar de ser melhor em custo de espaço.

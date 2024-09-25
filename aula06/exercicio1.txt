@@ -1,0 +1,12 @@
+List* mistério (List *l, int elem) {
+   Lista *no = search (lista, elem);
+   if (no == NULL) { return lista; }
+   if (lista == no) { lista = no->next; }
+   if (no->next != NULL) { no->next->prev = no->prev; }
+   if (no->prev != NULL) { no->prev->next = no->next; }
+   free(no)
+   return l;
+}
+
+RESPOSTA:
+   A função recebe uma lista e um elemento, em seguida ela procura a posição desse elemento na lista e exclui esse elemento  (tomando os cuidados caso esse elemento esteja na cauda ou na cabeça) e retorna a lista sem a primeira ocorrência do elemento. Caso o elemento não seja encontrado na lista, o retorno será a própria lista original.

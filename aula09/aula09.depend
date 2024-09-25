@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1697996087 source:c:\users\gusta\onedrive\햞ea de trabalho\aula09\arquivos\utils.c
+	"utils.h"
+
+1697996087 c:\users\gusta\onedrive\햞ea de trabalho\aula09\arquivos\utils.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1698001207 source:c:\users\gusta\onedrive\햞ea de trabalho\aula09\arquivos\bubble.c
+	"utils.h"
+
+1697997577 source:c:\users\gusta\onedrive\햞ea de trabalho\aula09\arquivos\selection-rec.c
+	"utils.h"
+
+1697997483 source:c:\users\gusta\onedrive\햞ea de trabalho\aula09\arquivos\bubble-rec.c
+	"utils.h"
+
+1697996609 source:c:\users\gusta\onedrive\햞ea de trabalho\aula09\arquivos\selection.c
+	"utils.h"
+
+1698001939 source:c:\users\gusta\onedrive\햞ea de trabalho\aula09\arquivos\bubble-birecional.c
+	"utils.h"
+

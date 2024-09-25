@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1699110355 source:c:\users\gusta\onedrive\햞ea de trabalho\aula11\utils.c
+	"utils.h"
+
+1699110355 c:\users\gusta\onedrive\햞ea de trabalho\aula11\utils.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1699110914 source:c:\users\gusta\onedrive\햞ea de trabalho\aula11\quick-sort.c
+	"utils.h"
+
+1699111161 source:c:\users\gusta\onedrive\햞ea de trabalho\aula11\quick-random.c
+	"utils.h"
+
+1699139210 source:c:\users\gusta\onedrive\햞ea de trabalho\aula11\quick-find.c
+	"utils.h"
+
+1699140063 source:c:\users\gusta\onedrive\햞ea de trabalho\aula11\quick-modificado.c
+	"utils.h"
+
+1699141480 source:c:\users\gusta\onedrive\햞ea de trabalho\aula11\quick-median.c
+	"utils.h"
+

@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1696097324 source:c:\users\gusta\onedrive\햞ea de trabalho\aula06\list.c
+	"list.h"
+
+1696094614 c:\users\gusta\onedrive\햞ea de trabalho\aula06\list.h
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+
+1696102305 source:c:\users\gusta\onedrive\햞ea de trabalho\aula06\deque.c
+	"deque.h"
+
+1696102320 c:\users\gusta\onedrive\햞ea de trabalho\aula06\deque.h
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<fcntl.h>
+
+1696102495 source:c:\users\gusta\onedrive\햞ea de trabalho\aula06\snake.c
+	<stdio.h>
+	<stdlib.h>
+	<unistd.h>
+	<fcntl.h>
+	"deque.h"
+	<conio.h>
+
