@@ -1,6 +1,6 @@
 # Estruturas de Dados - Exercícios
 
-Este repositório contém uma coleção de exercícios relacionados a diversas estruturas de dados fundamentais e algoritmos de ordenação, desenvolvidos em C/C++. Os exercícios abordam conceitos importantes para o entendimento e aplicação dessas estruturas em problemas práticos.
+Este repositório contém uma coleção de exercícios relacionados a diversas estruturas de dados fundamentais e algoritmos de ordenação, desenvolvidos em C. Os exercícios abordam conceitos importantes para o entendimento e aplicação dessas estruturas em problemas práticos.
 
 ## Conteúdo
 
